@@ -70,7 +70,7 @@ https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
 <br>
 <br>
-22-June-2023<br>
-Updated 30-June-2023<br>
+Feb - Mar 2022<br>
+
 <br>
 Tejodhay Bonam | https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/
