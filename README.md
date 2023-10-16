@@ -30,8 +30,6 @@ In this example we will use **Azure Computer Vision** to generate the embeddings
 
 Note: You need to write your Azure AI credentials in the **azure.env** file: <a href="azure.env">azure.env</a>
 
-## Demo video
-<a href="https://www.youtube.com/watch?v=uHQFTUjQWp4">YouTube demo video</a>
 <img src="demovideo.jpg" height=512>
 
 ## Some examples of a prompt search
