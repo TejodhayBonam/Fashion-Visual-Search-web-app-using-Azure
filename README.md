@@ -73,4 +73,4 @@ https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 22-June-2023<br>
 Updated 30-June-2023<br>
 <br>
-Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+Tejodhay Bonam | https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/
